@@ -1,2 +1,2 @@
-# ec2-deploy-test
-デプロイのテスト
+# aws-nodejs
+AWS NodeJS server with CodeDeploy
