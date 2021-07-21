@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdir /home/ubuntu/nodejs
-cd /home/ubuntu/nodejs
+mkdir /home/ec2-user/test
+cd /home/ec2-user/test
 
-sudo npm install
+sudo yarn install
